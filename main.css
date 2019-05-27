@@ -1,0 +1,10 @@
+.main {
+  /* Reference an image file */
+  /* background: URL("./images/background.png"); */
+  color: red;
+  background-color: aquamarine;
+  padding: 20px;
+  max-width: 1170px;
+  margin: 0px auto;
+  min-height: 700px;
+}

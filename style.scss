@@ -1,0 +1,15 @@
+$color: #efefef;
+body {
+  background-color: $color;
+  color: #432676;
+  p {
+    color: #126754;
+  }
+}
+
+.header {
+  max-width: 1170px;
+  margin: 0 auto;
+  background: gray;
+  padding: 20px;
+}
